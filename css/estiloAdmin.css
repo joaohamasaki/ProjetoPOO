@@ -1,0 +1,107 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label, input {
+    display: block;
+    line-height: 30px;
+    height: 30px;
+    outline: none;
+    font-size: 13pt;
+    width: 100%;
+}
+
+form {
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 30px auto;
+}
+
+input[type="submit"]{
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+#left {
+    width: 35%;
+    height: 500px;
+    float: left;
+}
+
+h2{
+    text-align: center;
+}
+
+#right {
+    width: 65%;
+    height: 500px;
+    float: left;
+}
+
+table{
+    width: 90%;
+    margin: 30px auto;
+    text-align: center;
+    color: #E2CFB9;
+}
+
+tr {
+    line-height: 30px;
+}
+
+
+#title td{
+    color: #07fc3c;
+    box-shadow: #0bf81f;
+}
+
+#title tr{
+    color: #07fc3c;
+    box-shadow: #0bf81f;
+}
+
+td {
+    padding: 0px 5px;
+}
+
+a {
+    background-color: #fff;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    margin: 0px 5px;
+    text-decoration: none;
+}
+
+input:hover {
+    background-color: #E2CFB9;
+  
+}
+
+a:hover {
+    background-color: #E2CFB9;
+}
+
+body{
+    background: linear-gradient(-320deg, #050404 10%, #280c0c 130%) no-repeat;
+    color: #E2CFB9;
+    width: 100%;
+    height: 100%;
+    box-shadow: #ffffff;
+}
+
+#botao2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    text-align: center;
+    color: #E2CFB9;
+    width: 12rem;
+    height: 3rem;
+    background: #77492D;
+    border: none;
+    border-radius: 1rem;
+}

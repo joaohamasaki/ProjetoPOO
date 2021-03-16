@@ -1,0 +1,241 @@
+body {
+    background: linear-gradient(-320deg, #050404 10%, #280c0c 130%) no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+#logo {
+    margin: 30px;
+    width: 100px;
+}
+
+#myNavbar a {
+    color: #E2CFB9;
+    padding: 0px 20px;
+    font-size: 18px !important;
+}
+
+.lblFooter {
+    color: #E2CFB9;
+}
+
+#lblLogin {
+    color: #E2CFB9;
+}
+
+#lblLoginCampos {
+    color: #E2CFB9;
+}
+
+#apresentacao {
+    color: #E2CFB9;
+    margin: 13px 250px 80px;
+}
+
+#apresentacao h1 { 
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#apresentacao1 {
+    color: #E2CFB9;
+    margin-top: 30px;
+    background-color: #050404;
+}
+
+#apresentacao1 p {
+    color: #E2CFB9;    
+    font-size: 20px;
+    padding: 15px;
+    padding-left: 50%;
+}
+
+#apresentacao1 h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+#linha-horizontal {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+    border: 3px solid #E2CFB9;
+}
+
+.servico {
+    color: #E2CFB9; 
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 30px;
+}
+
+.servico h1 {
+    font-size: 50px;
+}
+
+#carousel {
+    background: #E2CFB9;
+}
+
+.card-body {
+    text-align: center;
+    justify-content: center;
+    font-size: 15px;
+}
+
+#contato {
+    color: #E2CFB9; 
+    margin-top: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.botaoLogin{
+    display: flex;
+    margin: 30px auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    text-align: center;
+    color: #E2CFB9;
+    background: #77492D;
+    border: none;
+    border-radius: 1rem;
+    width: 12rem;
+    height: 3rem;
+    cursor: pointer;
+}
+
+#botao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    text-align: center;
+    color: #E2CFB9;
+    margin: 0px 70px 15px;
+    width: 12rem;
+    height: 3rem;
+    background: #77492D;
+    border: none;
+    border-radius: 1rem;
+    /* transform: translateY(-15px); */
+}
+
+#botao1 {
+    font-size: 25px;
+    text-align: center;
+    color: #E2CFB9;
+    margin: 100px 0px 50px 30px;
+    width: 17rem;
+    height: 6rem;
+    background: #77492D;
+    border: none;
+    border-radius: 1rem;
+}
+
+#botao2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    text-align: center;
+    color: #E2CFB9;
+    width: 12rem;
+    height: 3rem;
+    background: #77492D;
+    border: none;
+    border-radius: 1rem;
+}
+
+#btn-1 btn btn-primary{
+    margin-left: 10px;
+}
+
+
+
+#linha {
+    margin-top: 30px;
+}
+
+#curtir {
+    font-size: 15px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#blog {
+     
+    margin-top: 35px;
+}
+
+#contato2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#titulo{
+    padding-left: 40%;
+    color: #E2CFB9; 
+}
+
+#login{
+    align-items: center;
+    font-size: 18px;
+}
+
+#popup {
+    transform: translateY(150px);
+    background: #E2CFB9; 
+    color: black;
+}
+
+.form-control {
+    box-shadow: 0px 0px 2px 2px #E2CFB9;
+    font-size: 15px;
+}
+
+#dataehora {
+    margin-left: 50px;
+}
+
+#story {
+    width: 370px;
+    height: 130px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+#form1 {
+    height: 320px;
+}
+
+#botao3 {
+    margin: 50px 380px;
+    font-size: 15px;
+    color: #E2CFB9;
+    width: 12rem;
+    height: 3rem;
+    background: #77492D;
+    border: none;
+    border-radius: 1rem;
+}
+
+#prof{
+    border-radius: 15px;
+    padding: 8px;
+    
+}
+
+img:hover {
+    box-shadow: 0 0 2px 2px #d8ccbe;
+  }
+
+
+.bgCard{
+    background-color: #ebe2d6;
+    margin-bottom: 2%;
+}

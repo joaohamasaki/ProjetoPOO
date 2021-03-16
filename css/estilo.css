@@ -1,0 +1,108 @@
+label, input {
+    display: block;
+    line-height: 30px;
+    height: 30px;
+    outline: none;
+    font-size: 13pt;
+    width: 100%;
+}
+
+form {
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 30px auto;
+}
+
+input[type="submit"]{
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+#main {
+    width: 100%;
+    height: 500px;
+}
+
+h2{
+    text-align: center;
+}
+
+input:hover {
+    background-color: #E2CFB9;
+  
+}
+
+a {
+    background-color: #fff;
+    color: #000;
+    padding: 5px;
+    margin: 0px 5px;
+    text-decoration: none;
+}
+
+
+a:hover {
+    background-color: #E2CFB9;
+}
+
+body{
+    background: linear-gradient(-320deg, #050404 10%, #280c0c 130%) no-repeat;
+    color: #E2CFB9;
+    height: 100vh;
+    box-shadow: #ffffff;
+}
+
+#title td{
+    color: #ffffff;
+    box-shadow: #0bf81f;
+}
+
+#title tr{
+    color: #07fc3c;
+    box-shadow: #0bf81f;
+}
+#botao2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    text-align: center;
+    color: #E2CFB9;
+    width: 12rem;
+    height: 3rem;
+    background: #77492D;
+    border: none;
+    border-radius: 1rem;
+}
+
+#botao3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    text-align: center;
+    color: #E2CFB9;
+    width: 8rem;
+    height: 2rem;
+    background: #77492D;
+    border: none;
+    border-radius: 1rem;
+}
+
+
+.botaoLogin{
+    display: flex;
+    margin: 30px auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    text-align: center;
+    color: #E2CFB9;
+    background: #77492D;
+    border: none;
+    border-radius: 1rem;
+    width: 12rem;
+    height: 3rem;
+    cursor: pointer;
+}
