@@ -1,6 +1,6 @@
 <?php
 
-require(__DIR__ . '../interfaces/movimentacao.interface.php');
+require(__DIR__ . '/../interfaces/movimentacao.interface.php');
 
 Class Movimentacao implements iMovimentacao{
 

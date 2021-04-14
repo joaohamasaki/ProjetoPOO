@@ -1,6 +1,6 @@
 <?php
 
-require(__DIR__ . '../interfaces/fabricante.interface.php');
+require(__DIR__ . '/../interfaces/fabricante.interface.php');
 
 
 Class Fabricante implements iFabricante{

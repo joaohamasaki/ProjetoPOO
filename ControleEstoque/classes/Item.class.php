@@ -1,6 +1,6 @@
 <?php
 
-require(__DIR__ . '../interfaces/item.interface.php');
+require(__DIR__ . '/../interfaces/item.interface.php');
 
 
 Class Item implements iItem{
