@@ -30,6 +30,9 @@ class Cadastro extends Banco {
     public function setData($string){
         $this->data = $string;
     }
+
+       //Meu código não fere o princípio de responsabilidade única pois está separado de acordo, onde o método incluir está separado dos getters e setters.
+
     //Metodos Get
     public function getNome(){
         return $this->nome;
