@@ -24,7 +24,6 @@
         </thead>
         <tbody>
             <?php new listarController();  ?>
-
         </tbody>
     </table>
     

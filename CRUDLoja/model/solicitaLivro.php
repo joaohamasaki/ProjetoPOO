@@ -12,7 +12,8 @@ class Solicitacao {
         //Lógica
     }
 }
-
+    //Essa classe é fictícia.
+    //Esse CRUD é simples e não possui locais onde se possa herdar/herança, pois apenas cadastra, deleta, edita e lista os livros.
 
 interface BaseSolicitacao {
 
